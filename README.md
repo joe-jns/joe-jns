@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">A passionate python developer from Belgium</h3>
 
-- 🔭 I’m currently working on [jSelf](https://github.com/JnsJoe/jSelf-Discord-Selfbot)
+- 🔭 I’m currently working on [jSelf](https://github.com/Root-Joe/jSelf-Discord-Selfbot)
 
 - 👯 I’m looking to collaborate on **any discord <self> bot**
 
