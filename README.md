@@ -10,7 +10,7 @@
 
 - 🔧 Je construis des outils d'**automatisation marketing & sales** (GHL, workflows, dashboards)
 - 🤖 Je travaille avec **Claude / l'écosystème AI** pour accélérer mes workflows
-- 📬 Contact : **ai@chacunsonjob.com**
+- 📬 Contact : **contact@joe.yt**
 
 ---
 
