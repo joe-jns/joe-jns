@@ -1,16 +1,16 @@
-<h1 align="center">Salut, moi c'est Joe 👋</h1>
+<h1 align="center">Hi, I'm Joe 👋</h1>
 
 <p align="center">
-  <em>J'automatise ce qui peut l'être — GoHighLevel, prospection, AI tooling.</em>
+  <em>I automate everything that can be — GoHighLevel, prospecting, AI tooling.</em>
 </p>
 
 ---
 
-### 🚀 À propos
+### 🚀 About
 
-- 🔧 Je construis des outils d'**automatisation marketing & sales** (GHL, workflows, dashboards)
-- 🤖 Je travaille avec **Claude / l'écosystème AI** pour accélérer mes workflows
-- 📬 Contact : **github@joe.yt**
+- 🔧 I build **marketing & sales automation** tools (GHL, workflows, dashboards)
+- 🤖 I work with **Claude / the AI ecosystem** to speed up my workflows
+- 📬 Contact: **github@joe.yt**
 
 ---
 
@@ -24,10 +24,10 @@
 
 ---
 
-### 🧪 Projets en cours
+### 🧪 Current projects
 
-| Projet | Description | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| 🔄 [**GoHighLevel-Workflows-Export-Import**](https://github.com/joe-jns/GoHighLevel-Workflows-Export-Import) | Exporter / importer des workflows GHL entre sous-comptes | JavaScript |
-| 📊 [**prospection-dashboard**](https://github.com/joe-jns/prospection-dashboard) | Dashboard de suivi de prospection | JavaScript |
-| 📝 [**claude-report**](https://github.com/joe-jns/claude-report) | Génération de rapports avec Claude | Shell |
+| 🔄 [**GoHighLevel-Workflows-Export-Import**](https://github.com/joe-jns/GoHighLevel-Workflows-Export-Import) | Export / import GHL workflows between sub-accounts | JavaScript |
+| 📊 [**prospection-dashboard**](https://github.com/joe-jns/prospection-dashboard) | Prospecting tracking dashboard | JavaScript |
+| 📝 [**claude-report**](https://github.com/joe-jns/claude-report) | Report generation with Claude | Shell |
