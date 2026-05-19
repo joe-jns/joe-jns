@@ -31,16 +31,3 @@
 | 🔄 [**GoHighLevel-Workflows-Export-Import**](https://github.com/joe-jns/GoHighLevel-Workflows-Export-Import) | Exporter / importer des workflows GHL entre sous-comptes | JavaScript |
 | 📊 [**prospection-dashboard**](https://github.com/joe-jns/prospection-dashboard) | Dashboard de suivi de prospection | JavaScript |
 | 📝 [**claude-report**](https://github.com/joe-jns/claude-report) | Génération de rapports avec Claude | Shell |
-
----
-
-### 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joe-jns&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-jns&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joe-jns&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
