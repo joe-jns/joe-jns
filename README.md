@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Joe — I automate the boring parts of marketing & sales">
+  <img src="./assets/banner.svg" width="100%" alt="Joe, I automate the boring parts of marketing & sales">
 </div>
 
 <br>
@@ -12,7 +12,7 @@ const joe = {
   based:      "Belgium 🇧🇪",
   focus:      ["GoHighLevel", "Prospecting systems", "AI tooling"],
   philosophy: "If I do it twice, I automate it.",
-  building:   "in public — one workflow at a time",
+  building:   "in public, one workflow at a time",
 };
 ```
 
@@ -22,19 +22,16 @@ const joe = {
 
 > Less clicking, more closing. I turn repetitive marketing & sales work into systems that run on their own.
 
-- **GoHighLevel** — workflows, dashboards and sub-account tooling that scale across clients
-- **Prospecting engines** — tracking systems and pipelines that keep outreach moving
-- **AI-assisted tooling** — Claude-powered scripts that compress hours of grunt work into minutes
+- **GoHighLevel** - workflows, dashboards and sub-account tooling that scale across clients
+- **Prospecting engines** - tracking systems and pipelines that keep outreach moving
+- **AI-assisted tooling** - Claude-powered scripts that compress hours of grunt work into minutes
 
 <br>
 
 ## 🧰 &nbsp;Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,bash,html,css&theme=dark" alt="JavaScript, Node.js, Bash, HTML, CSS">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" height="48" alt="Playwright">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" height="48" alt="Claude">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,bash,mysql,html,css&theme=dark" alt="JavaScript, Node.js, Bash, MySQL, HTML, CSS">
 </p>
 
 <br>
@@ -43,33 +40,17 @@ const joe = {
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🔄 GHL Workflows · Export / Import</h3>
-      <p>Move GoHighLevel workflows between sub-accounts in seconds — no manual rebuild.</p>
-      <a href="https://github.com/joe-jns/GoHighLevel-Workflows-Export-Import"><img src="https://img.shields.io/badge/View_repo-D97757?style=flat-square&logo=github&logoColor=white"></a>
-      &nbsp;<code>JavaScript</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Prospection Dashboard</h3>
-      <p>Track outreach and pipeline health at a glance, in one place.</p>
-      <a href="https://github.com/joe-jns/prospection-dashboard"><img src="https://img.shields.io/badge/View_repo-D97757?style=flat-square&logo=github&logoColor=white"></a>
-      &nbsp;<code>JavaScript</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📝 Claude Report</h3>
-      <p>Auto-generate clean reports with Claude, straight from the terminal.</p>
-      <a href="https://github.com/joe-jns/claude-report"><img src="https://img.shields.io/badge/View_repo-D97757?style=flat-square&logo=github&logoColor=white"></a>
-      &nbsp;<code>Shell</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱 More cooking</h3>
-      <p>I ship small, sharp automation tools regularly. Browse the rest below.</p>
-      <a href="https://github.com/joe-jns?tab=repositories"><img src="https://img.shields.io/badge/All_repos-30363d?style=flat-square&logo=github&logoColor=white"></a>
+    <td valign="top">
+      <h3>🧩 GHL AI Studio Exporter</h3>
+      <p><b>Chrome extension that backs up GoHighLevel AI Studio projects to GitHub in one click.</b><br>
+      MV3, vanilla JS, OAuth Device Flow, atomic pushes through the Git Data API.</p>
+      <a href="https://github.com/joe-jns/ghl-aistudio-exporter"><img src="https://img.shields.io/badge/View_repo-D97757?style=flat-square&logo=github&logoColor=white"></a>
+      &nbsp;<code>JavaScript</code> &nbsp;<code>Chrome&nbsp;MV3</code>
     </td>
   </tr>
 </table>
+
+<sub>↗ &nbsp;More small, sharp automation tools on my <a href="https://github.com/joe-jns?tab=repositories">repositories</a>.</sub>
 
 <br>
 
