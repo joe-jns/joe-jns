@@ -8,14 +8,6 @@ Hi, I'm **Joe**, a marketing & sales automation builder based in Belgium. I turn
 
 <br>
 
-### What I work on
-
-- **GoHighLevel** &nbsp;workflows, dashboards and sub-account tooling that scale across clients
-- **Prospecting systems** &nbsp;tracking and pipelines that keep outreach moving
-- **AI tooling** &nbsp;Claude-powered scripts that compress hours of grunt work into minutes
-
-<br>
-
 ### Toolbox
 
 <p>
