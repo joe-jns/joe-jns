@@ -52,14 +52,3 @@
 | **[ghl-form-tag-automation](https://github.com/joe-jns/ghl-form-tag-automation)** | Auto-tag GoHighLevel form leads — build &amp; publish in one click |
 
 <sub>↗ More tools on my <a href="https://github.com/joe-jns?tab=repositories">repositories</a>.</sub>
-
-### GitHub stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joe-jns&show_icons=true&hide_border=true&title_color=C2410C&icon_color=C2410C">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-jns&layout=compact&hide_border=true&title_color=C2410C">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joe-jns&hide_border=true&ring=C2410C&fire=C2410C&currStreakLabel=C2410C">
-</div>
