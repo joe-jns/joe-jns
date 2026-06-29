@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Joe 👋</h1>
 
 <p align="center">
-  <b>Marketing &amp; sales automation builder</b> &nbsp;·&nbsp; Chrome extensions &nbsp;·&nbsp; Discord bots<br/>
+  <b>Marketing &amp; sales automation builder</b><br/>
+  Chrome extensions &nbsp;·&nbsp; Discord bots<br/>
   based in Belgium 🇧🇪
 </p>
 
