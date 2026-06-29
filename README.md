@@ -24,7 +24,7 @@
 ### Tech
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joe-jns/joe-jns/main/tech-carousel.svg" alt="JavaScript · TypeScript · Node.js · Chrome MV3 · discord.js · Astro · MySQL · Shell" width="520">
+  <img src="https://raw.githubusercontent.com/joe-jns/joe-jns/main/tech-carousel.svg" alt="JavaScript · TypeScript · Node.js · Chrome MV3 · discord.js · Astro · MySQL · Shell" width="100%">
 </p>
 
 ### Featured work
